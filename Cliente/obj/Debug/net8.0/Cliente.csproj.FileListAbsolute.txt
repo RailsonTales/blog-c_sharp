@@ -1,0 +1,14 @@
+C:\Users\Master\source\repos\Teste_Simone\Cliente\bin\Debug\net8.0\Cliente.exe
+C:\Users\Master\source\repos\Teste_Simone\Cliente\bin\Debug\net8.0\Cliente.deps.json
+C:\Users\Master\source\repos\Teste_Simone\Cliente\bin\Debug\net8.0\Cliente.runtimeconfig.json
+C:\Users\Master\source\repos\Teste_Simone\Cliente\bin\Debug\net8.0\Cliente.dll
+C:\Users\Master\source\repos\Teste_Simone\Cliente\bin\Debug\net8.0\Cliente.pdb
+C:\Users\Master\source\repos\Teste_Simone\Cliente\obj\Debug\net8.0\Cliente.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Master\source\repos\Teste_Simone\Cliente\obj\Debug\net8.0\Cliente.AssemblyInfoInputs.cache
+C:\Users\Master\source\repos\Teste_Simone\Cliente\obj\Debug\net8.0\Cliente.AssemblyInfo.cs
+C:\Users\Master\source\repos\Teste_Simone\Cliente\obj\Debug\net8.0\Cliente.csproj.CoreCompileInputs.cache
+C:\Users\Master\source\repos\Teste_Simone\Cliente\obj\Debug\net8.0\Cliente.dll
+C:\Users\Master\source\repos\Teste_Simone\Cliente\obj\Debug\net8.0\refint\Cliente.dll
+C:\Users\Master\source\repos\Teste_Simone\Cliente\obj\Debug\net8.0\Cliente.pdb
+C:\Users\Master\source\repos\Teste_Simone\Cliente\obj\Debug\net8.0\Cliente.genruntimeconfig.cache
+C:\Users\Master\source\repos\Teste_Simone\Cliente\obj\Debug\net8.0\ref\Cliente.dll
